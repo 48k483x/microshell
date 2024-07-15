@@ -2,7 +2,7 @@
 
 This exam has 1 question, microshell:
 k
-- [Microshell.c](https://github.com/48k483x/microshell/main/microshell.c)
+- [Microshell.c](https://github.com/48k483x/microshell/blob/main/microshell.c)
 
 if you can make this code shorter, but readable, let me know!
 
